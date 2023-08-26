@@ -1,0 +1,227 @@
+[
+  {
+    "question": {
+      "ar": "ما هو اسم IDE الافتراضي لتطوير تطبيقات Android؟",
+      "en": "What is the default IDE for developing Android applications?"
+    },
+    "options": [
+      {
+        "ar": "Android Studio",
+        "en": "Android Studio"
+      },
+      {
+        "ar": "Eclipse",
+        "en": "Eclipse"
+      },
+      {
+        "ar": "Visual Studio",
+        "en": "Visual Studio"
+      },
+      {
+        "ar": "XCode",
+        "en": "XCode"
+      }
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": {
+      "ar": "ما هو اسم ملف تعريف التطبيق في Android؟",
+      "en": "What is the name of the application's manifest file in Android?"
+    },
+    "options": [
+      {
+        "ar": "AndroidManifest.xml",
+        "en": "AndroidManifest.xml"
+      },
+      {
+        "ar": "app.xml",
+        "en": "app.xml"
+      },
+      {
+        "ar": "app.json",
+        "en": "app.json"
+      },
+      {
+        "ar": "app.yaml",
+        "en": "app.yaml"
+      }
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": {
+      "ar": "ما هي الوحدة الأساسية للتصميم في Android؟",
+      "en": "What is the basic unit of design in Android?"
+    },
+    "options": [
+      {
+        "ar": "Activity",
+        "en": "Activity"
+      },
+      {
+        "ar": "Fragment",
+        "en": "Fragment"
+      },
+      {
+        "ar": "View",
+        "en": "View"
+      },
+      {
+        "ar": "Layout",
+        "en": "Layout"
+      }
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": {
+      "ar": "ما هي العناصر الأساسية لواجهه المستخدم في Android؟",
+      "en": "What are the essential elements of the user interface in Android?"
+    },
+    "options": [
+      {
+        "ar": "النص، الصور، الأزرار، القوائم، شريط العنوان، شريط الأدوات، شريط الحالة",
+        "en": "Text, images, buttons, lists, title bar, toolbar, status bar"
+      },
+      {
+        "ar": "النص، الصور، الأزرار، القوائم، شريط العنوان، شريط الأدوات، شريط التنقل",
+        "en": "Text, images, buttons, lists, title bar, toolbar, navigation bar"
+      },
+      {
+        "ar": "النص، الصور، الأزرار، القوائم، شريط التنقل، شريط الحالة",
+        "en": "Text, images, buttons, lists, navigation bar, status bar"
+      },
+      {
+        "ar": "النص، الصور، الأزرار، القوائم، شريط العنوان، شريط الأدوات، شريط الحالة، شريط التنقل",
+        "en": "Text, images, buttons, lists, title bar, toolbar, status bar, navigation bar"
+      }
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": {
+      "ar": "ما هي دورة حياة الخدمة في Android؟",
+      "en": "What is the service lifecycle in Android?"
+    },
+    "options": [
+      {
+        "ar": "onCreate، onStart، onBind، onUnbind، onDestroy",
+        "en": "onCreate, onStart, onBind, onUnbind, onDestroy"
+      },
+      {
+        "ar": "onCreate، onStart، onRebind، onUnbind، onDestroy",
+        "en": "onCreate, onStart, onRebind, onUnbind, onDestroy"
+      },
+      {
+        "ar": "onCreate، onStart، onBind، onPause، onStop، onDestroy",
+        "en": "onCreate, onStart, onBind, onPause, onStop, onDestroy"
+      },
+      {
+        "ar": "onCreate، onStart، onBind، onUnbind، onRebind، onDestroy",
+        "en": "onCreate, onStart, onBind, onUnbind, onRebind, onDestroy"
+      }
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": {
+      "ar": "ما هو الفرق بين Activity و Fragment؟",
+      "en": "What is the difference between Activity and Fragment?"
+    },
+    "options": [
+      {
+        "ar": "النشاط هو وحدة تصميم أساسية، بينما ال fragment هو جزء من النشاط",
+        "en": "An activity is a basic design unit, while a fragment is a part of an activity"
+      },
+      {
+        "ar": "النشاط هو وحدة واجهة المستخدم، بينما ال fragment هو وحدة منطقية",
+        "en": "An activity is a user interface unit, while a fragment is a logical unit"
+      },
+      {
+        "ar": "النشاط هو وحدة قابلة للتبديل، بينما ال fragment هو وحدة غير قابلة للتبديل",
+        "en": "An activity is a swappable unit, while a fragment is a non-swappable unit"
+      },
+      {
+        "ar": "النشاط هو وحدة أعلى مستوى، بينما ال fragment هو وحدة أقل مستوى",
+        "en": "An activity is a top-level unit, while a fragment is a lower-level unit"
+      }
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": {
+      "ar": "ما هو الفرق بين ملف layout و ملف view؟",
+      "en": "What is the difference between a layout file and a view file?"
+    },
+    "options": [
+      {
+        "ar": "ملف layout هو ملف XML يصف تخطيط واجهة المستخدم، بينما ملف view هو ملف Java يمثل عنصر واجهة المستخدم",
+        "en": "A layout file is an XML file that describes the user interface layout, while a view file is a Java file that represents a user interface element"
+      },
+      {
+        "ar": "ملف layout هو ملف XML يصف عنصر واجهة المستخدم، بينما ملف view هو ملف Java يصف تخطيط واجهة المستخدم",
+        "en": "A layout file is an XML file that describes a user interface element, while a view file is a Java file that describes the user interface layout"
+      },
+      {
+        "ar": "ملف layout هو ملف Java يصف عنصر واجهة المستخدم، بينما ملف view هو ملف XML يصف تخطيط واجهة المستخدم",
+        "en": "A layout file is a Java file that describes a user interface element, while a view file is an XML file that describes the user interface layout"
+      },
+      {
+        "ar": "ملف layout و ملف view هما نفس الشيء",
+        "en": "A layout file and a view file are the same thing"
+      }
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": {
+      "ar": "ما هو ملف .gradle في Android؟",
+      "en": "What is a .gradle file in Android?"
+    },
+    "options": [
+      {
+        "ar": "ملف .gradle هو ملف نصي يحتوي على إعدادات Build Gradle لتطبيق Android",
+        "en": "A .gradle file is a text file that contains the Build Gradle settings for an Android application"
+      },
+      {
+        "ar": "ملف .gradle هو ملف XML يحتوي على إعدادات Build Gradle لتطبيق Android",
+        "en": "A .gradle file is an XML file that contains the Build Gradle settings for an Android application"
+      },
+      {
+        "ar": "ملف .gradle هو ملف Java يحتوي على إعدادات Build Gradle لتطبيق Android",
+        "en": "A .gradle file is a Java file that contains the Build Gradle settings for an Android application"
+      },
+      {
+        "ar": "ملف .gradle هو ملف غير موجود في Android",
+        "en": "A .gradle file does not exist in Android"
+      }
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": {
+      "ar": "ما هو ملف .apk في Android؟",
+      "en": "What is an .apk file in Android?"
+    },
+    "options": [
+      {
+        "ar": "ملف .apk هو ملف أرشيف يحتوي على تطبيق Android قابل للتنفيذ",
+        "en": "An .apk file is an archive file that contains an executable Android application"
+      },
+      {
+        "ar": "ملف .apk هو ملف Java يحتوي على تطبيق Android قابل للتنفيذ",
+        "en": "An .apk file is a Java file that contains an executable Android application"
+      },
+      {
+        "ar": "ملف .apk هو ملف XML يحتوي على تطبيق Android قابل للتنفيذ",
+        "en": "An .apk file is an XML file that contains an executable Android application"
+      },
+      {
+        "ar": "ملف .apk هو ملف غير موجود في Android",
+        "en": "An .apk file does not exist in Android"
+      }
+    ],
+    "correct_answer_index": 0
+  }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ابحث عنها</string>
+    <string name="button_start_new_game">بدء لعبة جديدة</string>
+    <string name="button_change_language">تغيير اللغة</string>
+    <string name="title_congratulations">تهانينا</string>
+    <string name="message_congratulations">نتيجتك: %s. استمر في العمل الرائع!</string>
+    <string name="button_back_to_home">العودة إلى الرئيسية</string>
+    <string name="button_complete">أكمل التقييم</string>
+    <string name="button_next_answer">الانتقال إلى الإجابة التالية</string>
+    <string name="text_progress_completed">%1$s من أصل %2$s تم الإكمال</string>
+    <string name="button_done">تم</string>
+    <string name="text_select_game">اختر موضوعًا لبدء مغامرتك!</string>
+</resources>

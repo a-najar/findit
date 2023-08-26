@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FindIt</string>
+    <string name="button_start_new_game">Start New Game</string>
+    <string name="button_change_language">Change Language</string>
+    <string name="title_congratulations">Congratulations</string>
+    <string name="message_congratulations">Your Score: %s. Keep up the great work!</string>
+    <string name="button_back_to_home">Return to Home</string>
+    <string name="button_complete">Complete Assessment</string>
+    <string name="button_next_answer">Proceed to Next Answer</string>
+    <string name="text_progress_completed">%1$s out of %2$s Completed</string>
+    <string name="button_done">Done</string>
+    <string name="text_select_game">Choose a topic to begin your adventure!</string>
+</resources>
